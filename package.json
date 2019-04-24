@@ -14,7 +14,7 @@
 
 	"dependencies":{
 		"express": "^4.16.4",
-		"bitcoin-core": "2.0.0"
+		"bitcoin-core": "git+http://git@github.com/mraksoll4/bitcoin-core.git""
 	},
 
 	"keywords": [
