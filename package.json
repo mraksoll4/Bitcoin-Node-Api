@@ -9,7 +9,7 @@
 	"main": "lib/api.js",
 	"repository" : {
 		"type": "git",
-		"url": "git@github.com:uaktags/Bitcoin-Node-Api.git"
+		"url": "git@github.com:mraksoll4/Bitcoin-Node-Api.git"
 	},
 
 	"dependencies":{
