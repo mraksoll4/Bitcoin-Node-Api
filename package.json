@@ -9,12 +9,12 @@
 	"main": "lib/api.js",
 	"repository" : {
 		"type": "git",
-		"url": "git@github.com:mraksoll4/Bitcoin-Node-Api.git"
+		"url": "git@github.com:uaktags/Bitcoin-Node-Api.git"
 	},
 
 	"dependencies":{
 		"express": "^4.16.4",
-		"bitcoin": "3.0.1"
+		"bitcoin-core": "2.0.0"
 	},
 
 	"keywords": [
